@@ -1,2 +1,3 @@
 # self
-myself as a project
+myself as a project, limited to solo activities only.
+See Issues.
